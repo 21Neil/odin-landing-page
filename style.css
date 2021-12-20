@@ -121,7 +121,7 @@ input[type="button"] {
 
 .thor-container {
   background-color: var(--gray);
-  padding: 100px;  
+  padding: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -170,7 +170,7 @@ input[type="button"] {
 }
 
 .action input[type="button"] {
-  border: 1px solid var(--snow-white)
+  border: 1px solid var(--snow-white);
 }
 
 footer {
